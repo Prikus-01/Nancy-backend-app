@@ -1,5 +1,5 @@
 {
-  "name": "lebab-ecommerce-backend",
+  "name": "nancy-ecommerce-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "start:dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "mamun",
+  "author": "priyanshu",
   "license": "ISC",
   "description": "",
   "dependencies": {
